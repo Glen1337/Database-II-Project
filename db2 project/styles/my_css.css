@@ -1,0 +1,21 @@
+
+
+body{
+    background-color: rgb(165, 205, 254);
+    //font-family: 'Source Sans Pro', sans-serif;
+}
+
+hr {
+  height: 3px;
+  margin-bottom: 14px;
+
+}
+
+.hr-primary{
+ 
+  border-width: 6px;
+  border-style:  hidden ;
+  background-color: rgba(50, 93, 136, .58);
+  box-shadow: 0px 0px 6px 1px rgb(50, 93, 136);
+  
+}

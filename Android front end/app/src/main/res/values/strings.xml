@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SIS</string>
+    <string name="instructions">Enter Student ID# to check graduation requirements</string>
+</resources>
